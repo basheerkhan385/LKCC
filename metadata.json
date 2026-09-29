@@ -1,0 +1,8 @@
+{
+  "name": "Remix LKCC – Lal Khan Construction Company",
+  "description": "Premium construction, civil engineering, building renovation, and infrastructure development company website with full bilingual English \u0026 Urdu support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
